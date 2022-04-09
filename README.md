@@ -1,4 +1,4 @@
-# W125-Final-Projects
+# W125-Projects
 Movie API:
 You can find out about top 250 movies of IMDb
 You can see the details of each movie
